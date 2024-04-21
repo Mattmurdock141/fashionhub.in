@@ -1,0 +1,195 @@
+.navbar-brand{
+ font-family: "Roboto";
+ color:#161616;
+ font-weight: 800;
+ font-size: 40px;
+}
+.nav-image{
+ height: 50px;
+ width: 60px;
+}
+.nav-item{
+ font-size: 20px;
+}
+.nav-item:hover{
+ text-decoration: underline;
+ display: inline-block;
+ letter-spacing: 2px;
+ cursor: pointer;
+ box-shadow: inset 0 0 0 0 white;
+ -webkit-transition: ease-out 1.2s;
+ -moz-transition: ease-out 1.2s;
+ transition: ease-out 0.4s;
+}
+#navItem1{
+ color: #161616;
+ font-family: "Bree serif";
+ padding: 10px;
+}
+#navItem2{
+ color: #161616;
+ font-family: "Bree serif";
+ padding: 10px;
+}
+#navItem3{
+ color: #161616;
+ font-family: "Bree serif";
+ padding: 10px;
+}
+#navItem4{
+ color: #161616;
+ font-family: "Bree serif";
+ padding: 10px;
+}
+#navItem5{
+ color: #161616;
+ font-family: "Bree serif";
+ padding: 10px;
+}
+.banner-ba-section-bg{
+ background-image: url("pngtree-fluid-folds-enigmatic-abstract-black-fabric-texture-image_13614636-transformed.png");
+ height: 100vh;
+ background-size: cover;
+}
+.banner-heading{
+ color: white;
+ font-size: 45px;
+}
+.banner-caption{
+ color: rgba(255, 255, 255, 0.535);
+ font-size: 24px;
+}
+.custom-button{
+ background-color: transparent;
+ color: rgb(94, 93, 93);
+ font-family: "Roboto";
+ border: 1px solid white;
+ padding: 10px;
+ width: 140px;
+ font-size: 15px;
+ display: inline-block;
+ letter-spacing: 3px;
+ cursor: pointer;
+ box-shadow: inset 0 0 0 0 white;
+ -webkit-transition: ease-out 1.8s;
+ -moz-transition: ease-out 0.4s;
+ transition: ease-out 0.4s;
+}
+.custom-button:hover{
+ box-shadow: inset 400px 0 0 0 white;
+ text-decoration: underline;
+}
+.wcu-section{
+ background-color: rgb(236, 236, 236);
+}
+.wcu-section-heading{
+ font-family: "Bree Serif";
+ font-weight: 800;
+ color:#323f4b;
+ font-size: 28px;
+}
+.wcu-section-description{
+ color: #555555;
+ font-family: "Roboto";
+ font-size: 24px;
+}
+.wcu-card-description{
+ color: gray;
+ font-family: "Roboto";
+ font-size: 24px;
+}
+.wcu-card-title{
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.wcu-card{
+ text-align: center;
+ background-color: white;
+ border-style: solid;
+ border-width: 1px;
+ border-color: #e5eaf4;
+ border-radius: 10px;
+ box-shadow: 0 0 7px grey;
+}
+.offers{
+ color: black;
+ font-style: italic;
+ font-family: "Roboto";
+ font-weight: 700;
+}
+.icon{
+ font-size: 80px;
+ color: grey;
+}
+.explore-products-section{
+ background-color:#e0dddd;
+}
+.explore-section-heading{
+ font-family: "Bree Serif";
+ color: #323f4b;
+ font-size: 35px;
+ font-weight: 800;
+}
+.item-card-title{
+ font-family: "Bree Serif";
+ color: #161616;
+ font-size: 24px;
+ font-weight: 700;
+}
+.item-card-detail{
+ font-family: "Roboto";
+ font-size: 22px;
+ font-weight: 500;
+ color: #555555;
+}
+.item-card-price{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #323f4b;
+ font-weight: 800;
+ font-size: 20px;
+}
+.menu-item-section{
+ border-radius: 10px;
+ background-color: white;
+ box-shadow: 0 0 7px grey;
+}
+.menu-item-image{
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+.icon-main{
+ color:#555555;
+ font-size: 35px;
+}
+.follow-us-section-container{
+ background-color:#e0dddd;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.footer-section {
+ background-color: #0d2436;
+}
+.footer-section-mail-id {
+ color: #959ead;
+ font-family: "Roboto";
+ font-weight: bold;
+ font-size: 24px;
+ margin-top: 20px;
+}
+.footer-section-address {
+ color: #959ead;
+ font-family: "Roboto";
+ font-size: 18px;
+}
+.icon-fotter{
+ color: #ffffff;
+ font-size: 40px;
+}
